@@ -16,3 +16,5 @@ The analysis relies on **analytical expressions of current transients** and the 
 - `sample_data/` – two small CSV files used in the demo:
   - `280mV.csv – Cu + hypophosphite` transient & `280mV-Cu.csv – Cu-only` transient
 
+
+If you use this material, please cite the article associated with this repository.
